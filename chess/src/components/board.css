@@ -1,0 +1,15 @@
+.board{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    width:400px;
+    height:400px;
+    border:2px solid red;
+    background:yellow;
+  }
+
+  .figure{
+    color:#000000;
+    font-weight:bold;
+    padding:5px;
+  }

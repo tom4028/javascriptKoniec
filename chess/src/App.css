@@ -1,0 +1,17 @@
+
+.App{
+  border:2px solid red;
+  text-align:center;
+  padding:20px;
+  margin:20px;
+}
+
+.buttons{
+  
+  text-align: center;
+}
+
+.game{
+  display: inline-block;
+  
+}
